@@ -2,7 +2,7 @@
 Using Streamlit to Display Analysis of Iris dataset (UCI) using Pandas and Seaborn
 
 Pipfile: python --version : 3.8
-requirement: 3.7.x (for streamlit)
+but python requirement: 3.7.x (for streamlit)
 
 For creating virtual environment and installing requisites on Windows OS; commands used:
 pipenv --python 3.7 install numpy pandas matplotlib seaborn streamlit pipreqs
