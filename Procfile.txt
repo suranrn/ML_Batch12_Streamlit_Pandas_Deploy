@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run ML_Python_Day4_assignment_pandasstreamlit_deploy_final_jan17.py
